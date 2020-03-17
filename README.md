@@ -4,6 +4,6 @@
 ## Our Team:
 - Ahmed Mansor
 - Abdelrahman Mahmoud
-- Rabee Adel
-- Osama
+- Rabea Adel
+- Osama Mohamed
 - Yousef Harbey
