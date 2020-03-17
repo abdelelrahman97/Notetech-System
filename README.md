@@ -1,7 +1,7 @@
 # UMS
-##University Management System
+## University Management System
 _______________________________
-##Our Team:
+## Our Team:
 - Ahmed Mansor
 - Abdelrahman Mahmoud
 - Rabee Adel
