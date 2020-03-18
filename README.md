@@ -6,10 +6,17 @@
 - Abdelrahman Mahmoud
 - Rabea Adel
 - Osama Mohamed
-- Yousef Harbey
+- Youssof Harby
 
-## Language and Tools That Will be Used:
+## platforms :
+
 ### web / Android
-### C#   /  java
-### sql server
+
+##  Language :  
+
+###  asp.net wep API MVC  (C#)  / Android (java)  / html / css / js /jquery / bootstrap
+### sql
+
+## Tools:
+### visual studio / android studio / sql server
 ### liunx  / windows
