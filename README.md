@@ -8,13 +8,22 @@
 - Osama Mohamed
 - Youssof Harby
 
-## platforms :
-### web / Android
+## Platforms :
+- Web / Android
 
 ##  Language :  
-###  asp.net wep API MVC  (C#)  / Android (java)  / html / css / js /jquery / bootstrap
-### sql
+- asp.net wep API MVC  (C#)
+- Android (java)
+- html
+- css
+- js
+- Jquery
+- Bootstrap
+- sql
 
 ## Tools:
-### visual studio / android studio / sql server
+- visual studio
+- android studio
+- sql server
+
 ### liunx  / windows
