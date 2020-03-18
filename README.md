@@ -9,11 +9,9 @@
 - Youssof Harby
 
 ## platforms :
-
 ### web / Android
 
 ##  Language :  
-
 ###  asp.net wep API MVC  (C#)  / Android (java)  / html / css / js /jquery / bootstrap
 ### sql
 
