@@ -1,5 +1,4 @@
-# UMS
-## University Management System
+# Notetech System
 
 ## Our Team:
 - Ahmed Mansor
